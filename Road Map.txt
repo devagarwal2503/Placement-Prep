@@ -1,0 +1,22 @@
+Step 1: Programming Language  C/C++
+	2 Month.
+Step 2: Data Structure & Algo.
+	2 Months.
+Step 3: Competitive Coding.
+	1. Hacker Rank.
+	2. Hacker Earth.
+	3. Top Coder.
+	4. Code Chef.
+	5. GFG.
+	2 Months.
+Step 4: Theory
+	1. Networking.
+	2. DBMS.
+	3. OS.
+	4. System Design.
+	5. Testing.
+	2 Months.
+Step 5: End Game
+	1. Interview Bit.
+	2. Leet Code.
+	3. Career Cup. 
